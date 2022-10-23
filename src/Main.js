@@ -1,6 +1,12 @@
 import React, {useState, useEffect} from 'react'
 import axios from 'axios';
 
+import 'jquery/dist/jquery.min.js';
+import 'datatables.net-dt/js/dataTables.dataTables';
+import 'datatables.net-dt/css/jquery.dataTables.min.css';
+import $ from 'jquery';
+
+
 
 export default function Main() {
 
