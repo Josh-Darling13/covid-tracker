@@ -46,7 +46,7 @@ export default function Main() {
         <h1>Covid Stats</h1>
         <div className="row justify-content-center">
             <div className="col-md-8">
-                <table className='table table-dark' id='thistable'>
+                <table className='table' id='thistable'>
                     <thead>
                         <tr>
                             <th>Country</th>
